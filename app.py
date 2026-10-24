@@ -76,4 +76,4 @@ if st.button('Show Recommendation'):
             if image:
                 st.image(image)
             if audio:
-                st.audio(audio, end_time=20)
+                st.audio(audio, end_time=30)
